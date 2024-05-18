@@ -3,6 +3,11 @@
 ## Introduction
 
 Power Hacks is a revolutionary communication platform designed to foster inclusivity, accessibility, and meaningful connections among university communities. Inspired by the need to disrupt traditional dialogue and combat negativity and misinformation, our platform aims to bridge divides and promote a future of positive communication. Launched in celebration of World Telecommunication Day (May 17th), Power Hacks empowers users to "disrupt the conversation" by providing a space for sharing ideas and engaging in constructive dialogues.
+<div align=center>
+   <a href="https://github.com/Roro1839/Power_Hackthon01/blob/main/howitlooks">
+   <img height=50 width=100% src="https://github.com/Roro1839/Power_Hackthon01/blob/main/howitlooks/Screenshot%20from%202024-05-18%2014-21-28.png">
+   </a>
+</div>
 
 ## Features
 
