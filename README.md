@@ -1,5 +1,9 @@
 # Power Hacks: Next-Gen Social Platform for University Communication
+## Resources
 
+Here is a useful resource related to my project:
+
+[Download PDF](STUDYBADDY.pdf)
 ## Introduction
 
 Power Hacks is a revolutionary communication platform designed to foster inclusivity, accessibility, and meaningful connections among university communities. Inspired by the need to disrupt traditional dialogue and combat negativity and misinformation, our platform aims to bridge divides and promote a future of positive communication. Launched in celebration of World Telecommunication Day (May 17th), Power Hacks empowers users to "disrupt the conversation" by providing a space for sharing ideas and engaging in constructive dialogues.
