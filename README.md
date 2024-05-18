@@ -14,8 +14,8 @@ Power Hacks is a revolutionary communication platform designed to foster inclusi
 ## Technology Stack
 
 - **Backend**: Django Framework
-- **Database**: PostgreSQL
-- **Frontend**: React.js
+- **Database**: MongoDb
+- **Frontend**: React.js, Jinja, Html, Css
 - **Authentication**: JWT Tokens
 - **Deployment**: Docker & Kubernetes
 
